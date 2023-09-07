@@ -6,3 +6,7 @@
  git add filename 
  git log 
  git diff text2.txt //check the difference
+ git checkout text2.txt^C //undo
+ git remote add <name> https://github.com/shodanshetty/test.git 
+ git push -u <remote name> <branch name>
+ 
