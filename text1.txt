@@ -5,3 +5,4 @@
  git status
  git add filename 
  git log 
+ git diff text2.txt //check the difference
