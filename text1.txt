@@ -5,6 +5,7 @@
  git status
  git add filename 
  git log 
+ git commit -m "chapter1 commited"
  git diff text2.txt //check the difference
  git checkout text2.txt^C //undo
  git remote add <name> https://github.com/shodanshetty/test.git 
