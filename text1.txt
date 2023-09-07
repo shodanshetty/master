@@ -4,4 +4,4 @@
  ls -a // list of files 
  git status
  git add filename 
- kk
+ git log 
