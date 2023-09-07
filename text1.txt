@@ -3,3 +3,5 @@
  git init  // Initialized empty Git repository
  ls -a // list of files 
  git status
+ git add filename 
+ k
