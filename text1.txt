@@ -9,6 +9,7 @@
  git diff text2.txt //check the difference
  git checkout text2.txt^C //undo
  git remote add <name> https://github.com/shodanshetty/test.git 
- git branch -m main
+ git branch -m main // to create the branch
+ git checkout alion-plot // to swich the branch
  git push -u <remote name> <branch name>
  git push -u origin main // pushing the files to repository
